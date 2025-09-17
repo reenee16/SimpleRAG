@@ -1,0 +1,6 @@
+streamlit>=1.34.0
+sentence-transformers>=2.6.1
+faiss-cpu>=1.7.4
+numpy>=1.26.4
+requests>=2.31.0
+PyMuPDF>=1.24.0
