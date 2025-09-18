@@ -1,4 +1,4 @@
-# Simple RAG (Ollama + Streamlit)
+# PDF-AI
 
 Upload up to 5 PDFs and ask questions with retrieval-augmented generation.
 
