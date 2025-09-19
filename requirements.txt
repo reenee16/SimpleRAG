@@ -4,3 +4,6 @@ faiss-cpu>=1.7.4
 numpy>=1.26.4
 requests>=2.31.0
 PyMuPDF>=1.24.0
+pytesseract>=0.3.10
+Pillow>=10.0.0
+nltk>=3.8.1
